@@ -13,7 +13,7 @@ Allows you to quickly create a batch file (.bat) from the terminal. simply use
 
 ### Pathfy 
 
-Allows you to quickly add a file to the Path enviromental variable string. simply use
+Allows you to quickly add a folder's path to the Path enviromental variable string. simply use
 
 `pathfy <path>`
 
