@@ -1,11 +1,14 @@
 # windows-fy
 A couple of useful tools I am developing for windows to make my life easier
 
+Warning: This tools are on early development.
+
 ## Features
 
 ### Batfy
 
 Allows you to quickly create a batch file (.bat) from the terminal. simply use
+
 `batfy -o <outputfilename> "code"`
 
 ### Pathfy 
